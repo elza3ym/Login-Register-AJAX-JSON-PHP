@@ -1,6 +1,7 @@
 ## Installation
 
 **1. Upload Files And Database**
+
 **2. Database Configration**
 
 >core\init.php
