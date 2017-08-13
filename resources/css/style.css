@@ -1,0 +1,70 @@
+/*
+    Global
+ */
+* {
+    font-family: 'Exo 2';
+}
+body {
+    background-color: #1d3c50;
+}
+.container {
+    width: 300px;
+    text-align: center;
+    margin: 0 auto;
+}
+.form-container {
+    margin: 125px auto 0;
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 25px;
+}
+.input-control {
+    display: block;
+    margin: 10px auto;
+    background-color: #f4f5f7;
+    border: 1px solid #d3d4d6;
+    padding: 10px 0 10px 5px;
+    width: 95%;
+    border-radius: 5px;
+}
+.input-control::placeholder {
+    color: #d3d4d6;
+}
+.btn-submit {
+    background-color: #01cd6a;
+    padding: 10px 0 10px 5px;
+    margin: 10px auto;
+    border: none;
+    width: 95%;
+    color: #ffffff;
+    border-radius: 5px;
+}
+.btn-primary {
+    background-color: #3498db;
+}
+p.lead {
+    color: #999a9c;
+}
+.alert {
+    width: 95%;
+    padding: 10px 0 10px 5px;
+    margin: 10px auto;
+    background-color: #999a9c;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 14px;
+}
+.alert-error {
+    background-color: #e74c3c;
+}
+.alert-success {
+    background-color: #2ecc71;
+}
+ul.list-data {
+    list-style: none;
+    text-align: left;
+}
+ul.list-data li {
+    margin: 15px 0;
+}
